@@ -1,0 +1,8 @@
+{
+  "name": "NgPrebuildDemo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "cfd0aae4"
+}

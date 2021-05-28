@@ -1,0 +1,20 @@
+{
+  "name": "NgPrebuildDemo",
+  "version": "0.0.1",
+  "author": "Ionic Framework",
+  "homepage": "https://ionicframework.com/",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "echo 'Prebuild, build script disabled'",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
+  },
+  "private": true,
+  "dependencies": {
+  },
+  "devDependencies": {
+      },
+  "description": "An Ionic project"
+}
